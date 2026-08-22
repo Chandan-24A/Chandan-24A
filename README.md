@@ -84,11 +84,5 @@ A full-stack recipe planning and pantry management application.
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/chandan-kumar-sahoo-027432399/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sahoochandankumar96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-sahoo-027432399/)
+- 📧 [Email](mailto:sahoochandankumar96@gmail.com)
