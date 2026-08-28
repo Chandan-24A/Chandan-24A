@@ -79,7 +79,6 @@ A full-stack recipe planning and pantry management application.
 ☁️ Cloud Technologies
 🤖 Machine Learning
 🧠 AI Engineering
-🏗️ System Design
 ```
 
 ## 📫 Connect With Me
